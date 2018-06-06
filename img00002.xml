@@ -1,0 +1,256 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>标注Test</folder>
+<filename>img00002.JPG</filename>
+<path>C:\Users\Administrator.-20171116XTDXHT\Desktop\标注Test\img00002.JPG</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>2668</width>
+    <height>1654</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>北京增值税普通发票</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1003</xmin>
+        <ymin>85</ymin>
+        <xmax>1676</xmax>
+        <ymax>156</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>1100174320</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>434</xmin>
+        <ymin>132</ymin>
+        <xmax>853</xmax>
+        <ymax>198</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>37376935</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1926</xmin>
+        <ymin>132</ymin>
+        <xmax>2208</xmax>
+        <ymax>198</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>499933926450</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>348</xmin>
+        <ymin>289</ymin>
+        <xmax>679</xmax>
+        <ymax>334</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>2018年02月09日</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2142</xmin>
+        <ymin>270</ymin>
+        <xmax>2464</xmax>
+        <ymax>307</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>北京合力中税科技发展有限公司</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>539</xmin>
+        <ymin>362</ymin>
+        <xmax>1070</xmax>
+        <ymax>407</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>91110108797594415B</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>591</xmin>
+        <ymin>422</ymin>
+        <xmax>1136</xmax>
+        <ymax>467</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>餐费</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>169</xmin>
+        <ymin>663</ymin>
+        <xmax>249</xmax>
+        <ymax>710</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>390.29</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1871</xmin>
+        <ymin>1081</ymin>
+        <xmax>2039</xmax>
+        <ymax>1121</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>11.71</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2378</xmin>
+        <ymin>1081</ymin>
+        <xmax>2517</xmax>
+        <ymax>1118</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>肆佰零贰圆整</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>890</xmin>
+        <ymin>1157</ymin>
+        <xmax>1098</xmax>
+        <ymax>1199</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>402.00</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2078</xmin>
+        <ymin>1166</ymin>
+        <xmax>2246</xmax>
+        <ymax>1213</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>圈美（北京）餐饮管理有限公司</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>539</xmin>
+        <ymin>1242</ymin>
+        <xmax>1062</xmax>
+        <ymax>1282</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>校验码 00571 18010 62035 46547</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1587</xmin>
+        <ymin>1242</ymin>
+        <xmax>2229</xmax>
+        <ymax>1289</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>91110106MA00EA5F5D</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>596</xmin>
+        <ymin>1311</ymin>
+        <xmax>1141</xmax>
+        <ymax>1356</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>北京市丰台区万兴路1号院2号楼3层32269945655</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>539</xmin>
+        <ymin>1375</ymin>
+        <xmax>1335</xmax>
+        <ymax>1417</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>工行北京青塔支行0200008209201709083</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>539</xmin>
+        <ymin>1422</ymin>
+        <xmax>1202</xmax>
+        <ymax>1464</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>管理员</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>396</xmin>
+        <ymin>1488</ymin>
+        <xmax>521</xmax>
+        <ymax>1535</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>管理员</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1013</xmin>
+        <ymin>1488</ymin>
+        <xmax>1138</xmax>
+        <ymax>1537</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>罗霞</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1556</xmin>
+        <ymin>1488</ymin>
+        <xmax>1648</xmax>
+        <ymax>1535</ymax>
+    </bndbox>
+</object>
+</annotation>
